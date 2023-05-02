@@ -1,5 +1,5 @@
-### Portfolio using HTML and CSS
+# Portfolio using HTML and CSS
  
 ## OUTPUT:
-     ![image](https://user-images.githubusercontent.com/77089743/235569462-8f303e2e-e3d4-4270-a1ba-b0179b05fce1.png)
      
+![Screenshot 2023-05-02 082220](https://user-images.githubusercontent.com/77089743/235569579-24d2d60d-491a-467b-b993-bee1f2c435f9.png)
